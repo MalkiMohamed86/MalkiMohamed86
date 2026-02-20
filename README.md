@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌿 Minimalist dev • Stoic mind<br>🗡️ Full-Stack • Sharp & focused<br>🧠 Code, think, repeat • Intellectual approach<br>🔥 Building systems • Confident & precise<br>🌿🗡️🧠🔥 Dev with calm, sharp, wise, and dominant energy
+🌿 Minimalist dev • Calm mind<br>🗡️ Full-Stack • Sharp & focused<br>🧠 Code, think, repeat • Intellectual approach<br>🔥 Building systems • Confident & precise<br>🌿🗡️🧠🔥 Dev with calm, sharp, wise, and dominant energy
 
 
 ## 🌐 Socials:

@@ -10,9 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MalkiMohamed86&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 
-![](https://nirzak-streak-stats.vercel.app/?user=MalkiMohamed86&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=MalkiMohamed86&theme=dark)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalkiMohamed86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
